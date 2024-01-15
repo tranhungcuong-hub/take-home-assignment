@@ -11,7 +11,7 @@ This guide provides instructions on how to run the `main.py` Python script.
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/tranhungcuong-hub/take-home-assignment.git
     ```
 
     Alternatively, you can download the ZIP file and extract it to a directory of your choice.
@@ -19,7 +19,7 @@ This guide provides instructions on how to run the `main.py` Python script.
 2. Navigate to the project directory.
 
     ```bash
-    cd your-repository
+    cd take-home-assignment
     ```
 
 ## Running the Script
@@ -38,4 +38,8 @@ This guide provides instructions on how to run the `main.py` Python script.
     python3 main.py
     ```
 
-3. The script will now be e
+3. The script will now be:
+   ```bash
+   Skipped row due to invalid age: {'Name': 'Cosetta Blanca', 'Age': ''}
+    Average Age: 26.34
+   ```
